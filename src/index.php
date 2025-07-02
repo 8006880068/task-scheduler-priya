@@ -162,7 +162,10 @@ $tasks = getAllTasks();
     <form method="POST" action="index.php">
       <input type="email" name="email" required>
       <button id="submit-email">Submit</button>
+
     </form>
+	<p style="color:gray; font-size:12px;">Submitted by Priya</p>
+
 
   </div>
 
